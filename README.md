@@ -1,11 +1,9 @@
 # deme-repository
-This iisa project to guide beginners in git and github
+This is a project to showcase what seaborn python library can do.
 
 # subheader
 
-I am just a gal!
-Hey lots of love
-This is quite fun too
-
-
-hit
+Seaborn mastery is key if you want to get exemplary insights from any dataset.
+This library can be used to create a diverse range of plots to visualize data.
+It is easy to work with especially for beginner data analysts.
+Have enjeyed this what do you have to say!
